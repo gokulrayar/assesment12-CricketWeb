@@ -1,0 +1,166 @@
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\CricketInfo.dll.config
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\CricketInfo.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\CricketInfo.pdb
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\csc.exe
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\csc.exe.config
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\csc.rsp
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\csi.exe
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\csi.exe.config
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\csi.rsp
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\Microsoft.Managed.Core.targets
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.AppContext.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Collections.Immutable.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Console.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Globalization.Calendars.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.IO.Compression.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.IO.FileSystem.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Net.Http.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Net.Sockets.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Reflection.Metadata.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.ValueTuple.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Xml.XmlDocument.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Xml.XPath.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\vbc.exe
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\vbc.exe.config
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\vbc.rsp
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\VBCSCompiler.exe
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\roslyn\VBCSCompiler.exe.config
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\Antlr3.Runtime.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\EntityFramework.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\EntityFramework.SqlServer.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\Microsoft.Web.Infrastructure.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\Newtonsoft.Json.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\System.Web.Helpers.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\System.Web.Mvc.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\System.Web.Optimization.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\System.Web.Razor.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\System.Web.WebPages.Deployment.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\System.Web.WebPages.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\System.Web.WebPages.Razor.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\WebGrease.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\EntityFramework.xml
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\EntityFramework.SqlServer.xml
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\System.Web.Helpers.xml
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\System.Web.Mvc.xml
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\System.Web.Optimization.xml
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\System.Web.Razor.xml
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\System.Web.WebPages.xml
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\System.Web.WebPages.Deployment.xml
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\System.Web.WebPages.Razor.xml
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\Newtonsoft.Json.xml
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\Antlr3.Runtime.pdb
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\obj\Debug\CricketInfo.csproj.AssemblyReference.cache
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\obj\Debug\CricketInfo.csproj.CoreCompileInputs.cache
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\obj\Debug\CricketInfo.csproj.CopyComplete
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\obj\Debug\CricketInfo.dll
+E:\mphasis\problem statement\PHASE 2\day 14\CricketInfo\CricketInfo\obj\Debug\CricketInfo.pdb
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\CricketInfo.dll.config
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\CricketInfo.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\CricketInfo.pdb
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\csc.exe
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\csc.exe.config
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\csc.rsp
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\csi.exe
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\csi.exe.config
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\csi.rsp
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\Microsoft.Managed.Core.targets
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.AppContext.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Collections.Immutable.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Console.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Globalization.Calendars.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.IO.Compression.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.IO.FileSystem.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Net.Http.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Net.Sockets.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Reflection.Metadata.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.ValueTuple.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Xml.XmlDocument.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Xml.XPath.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\vbc.exe
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\vbc.exe.config
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\vbc.rsp
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\VBCSCompiler.exe
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\roslyn\VBCSCompiler.exe.config
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\Antlr3.Runtime.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\EntityFramework.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\EntityFramework.SqlServer.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\Microsoft.Web.Infrastructure.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\Newtonsoft.Json.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\System.Web.Helpers.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\System.Web.Mvc.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\System.Web.Optimization.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\System.Web.Razor.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\System.Web.WebPages.Deployment.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\System.Web.WebPages.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\System.Web.WebPages.Razor.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\WebGrease.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\EntityFramework.xml
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\EntityFramework.SqlServer.xml
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\System.Web.Helpers.xml
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\System.Web.Mvc.xml
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\System.Web.Optimization.xml
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\System.Web.Razor.xml
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\System.Web.WebPages.xml
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\System.Web.WebPages.Deployment.xml
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\System.Web.WebPages.Razor.xml
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\Newtonsoft.Json.xml
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\Antlr3.Runtime.pdb
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\obj\Debug\CricketInfo.csproj.AssemblyReference.cache
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\obj\Debug\CricketInfo.csproj.CoreCompileInputs.cache
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\obj\Debug\CricketInfo.csproj.CopyComplete
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\obj\Debug\CricketInfo.dll
+F:\PHASE3\day14\PHASE-2-day14-master\CricketInfo\CricketInfo\obj\Debug\CricketInfo.pdb
